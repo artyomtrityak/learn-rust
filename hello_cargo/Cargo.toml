@@ -1,0 +1,6 @@
+[package]
+name = "hello_cargo"
+version = "0.1.0"
+authors = ["Artem Trytiak <art.trityak@gmail.com>"]
+
+[dependencies]
